@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/FuenteJuego.spritefont</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Menu.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Isla.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Imperio.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_adquirir_musica.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_adquirir_musica_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_borrar_partida.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_borrar_partida_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_confirmar.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_confirmar_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_continuar.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_continuar_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_controles.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_controles_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_creditos.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_creditos_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_diario.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_diario_g.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_diario_g_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_diario_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_guardar_partida.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_guardar_partida_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_idioma.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_idioma_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_inventario.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_inventario_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_opciones.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_opciones_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_partida_nueva.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_partida_nueva_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_personajes.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_personajes_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista1.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista1_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista2.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista2_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista3.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista3_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista4.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_pista4_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_resolucion.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_resolucion_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_salir.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_salir_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_sonido.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_sonido_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_vacio.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_vacio_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_volver.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_volver_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/torre_nivel1.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/torre_nivel2.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/torre_nivel3.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/torre_nivel4.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/torre_nivel5.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/icono_oro.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/icono_mejora.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/estrella_llena.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Torres/estrella_vacia.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_mejorar.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Botones/btn_mejorar_hover.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Edificios/cuartel_nivel1.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Edificios/cuartel_nivel2.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Edificios/cuartel_nivel3.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Edificios/hospital_nivel1.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Edificios/hospital_nivel2.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Edificios/hospital_nivel3.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Fondos/imperio_aldea.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Fondos/imperio_montana.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Fondos/imperio_rio.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Items/item_arco.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Items/item_escudo.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Items/item_espada.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Items/item_pocion.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Personajes/personaje_general.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Personajes/personaje_medica.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Personajes/personaje_vigia.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Unidades/enemigo.png</File>
+    <File>C:/Users/Redes-20/Downloads/Project10_final/Project10_listo/Project10/Content/Unidades/soldado.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
