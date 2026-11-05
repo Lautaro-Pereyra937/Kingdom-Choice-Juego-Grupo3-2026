@@ -1,0 +1,15 @@
+Copia estos archivos en tu proyecto (la carpeta que tiene Project10.csproj), respetando las carpetas
+y aceptando "Reemplazar los archivos en el destino":
+
+  Game1.cs
+  Juego\Game1.Oleadas.cs
+  Juego\Game1.Edificios.cs
+  Juego\Game1.Dibujo.cs
+  Juego\Game1.Menus.cs
+  Juego\Game1.Guardado.cs
+  Modelos\UnidadBatalla.cs   (NUEVO)
+  Modelos\DatosGuardado.cs   (NUEVO)
+
+Este zip incluye TODO: oleadas en el mapa + modos Historia/Infinito + JSON + recursividad + matrices.
+No hace falta crear ningun .json a mano: el juego crea solo configuracion.json y partida.json.
+No hace falta tocar Content ni el csproj.
