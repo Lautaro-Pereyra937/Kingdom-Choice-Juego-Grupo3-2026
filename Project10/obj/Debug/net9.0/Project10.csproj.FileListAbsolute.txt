@@ -144,3 +144,13 @@ C:\Users\Elizabeth\source\repos\Project10\Project10\obj\Debug\net9.0\Project10.p
 C:\Users\Elizabeth\source\repos\Project10\Project10\obj\Debug\net9.0\Project10.genruntimeconfig.cache
 C:\Users\Elizabeth\source\repos\Project10\Project10\obj\Debug\net9.0\ref\Project10.dll
 C:\Users\Elizabeth\source\repos\Project10\Project10\bin\Debug\net9.0\Content\Personajes\personaje_mineronormal.xnb
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.csproj.AssemblyReference.cache
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.AssemblyInfoInputs.cache
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.AssemblyInfo.cs
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.csproj.CoreCompileInputs.cache
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.sourcelink.json
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.dll
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\refint\Project10.dll
+C:\Users\Redes-20\Documents\GitHub\Kingdom-Choice-Juego-Grupo3-2026\Project10\obj\Debug\net9.0\Project10.pdb

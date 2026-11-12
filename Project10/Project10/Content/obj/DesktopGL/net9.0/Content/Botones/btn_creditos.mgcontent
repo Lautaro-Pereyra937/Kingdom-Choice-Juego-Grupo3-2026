@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Elizabeth/source/repos/Project10/Project10/Project10/Content/Botones/btn_creditos.png</SourceFile>
-  <SourceTime>2026-11-03T11:18:08.2564957-03:00</SourceTime>
-  <DestFile>C:/Users/Elizabeth/source/repos/Project10/Project10/Project10/Content/bin/DesktopGL/Content/Botones/btn_creditos.xnb</DestFile>
-  <DestTime>2026-11-03T11:19:35.5632661-03:00</DestTime>
+  <SourceFile>C:/Users/Redes-20/Documents/GitHub/Kingdom-Choice-Juego-Grupo3-2026/Project10/Project10/Content/Botones/btn_creditos.png</SourceFile>
+  <SourceTime>2026-11-12T11:22:56.2961343-03:00</SourceTime>
+  <DestFile>C:/Users/Redes-20/Documents/GitHub/Kingdom-Choice-Juego-Grupo3-2026/Project10/Project10/Content/bin/DesktopGL/Content/Botones/btn_creditos.xnb</DestFile>
+  <DestTime>2026-11-12T11:23:48.3123437-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-08-14T18:50:10-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
