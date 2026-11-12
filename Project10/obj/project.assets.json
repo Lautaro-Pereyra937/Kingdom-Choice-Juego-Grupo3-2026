@@ -1018,19 +1018,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elizabeth\\.nuget\\packages\\": {}
+    "C:\\Users\\Redes-20\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elizabeth\\source\\repos\\Project10\\Project10\\Project10.csproj",
+      "projectUniqueName": "C:\\Users\\Redes-20\\Documents\\GitHub\\Kingdom-Choice-Juego-Grupo3-2026\\Project10\\Project10.csproj",
       "projectName": "Project10",
-      "projectPath": "C:\\Users\\Elizabeth\\source\\repos\\Project10\\Project10\\Project10.csproj",
-      "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elizabeth\\source\\repos\\Project10\\Project10\\obj\\",
+      "projectPath": "C:\\Users\\Redes-20\\Documents\\GitHub\\Kingdom-Choice-Juego-Grupo3-2026\\Project10\\Project10.csproj",
+      "packagesPath": "C:\\Users\\Redes-20\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Redes-20\\Documents\\GitHub\\Kingdom-Choice-Juego-Grupo3-2026\\Project10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Redes-20\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1095,7 +1095,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
